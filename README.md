@@ -34,5 +34,13 @@ Grupo: Luiz Estrela, Vinicius Rocha, Nedson Bomman e Álvaro Carrazzoni
 ![7](https://github.com/LuizEstrelaIII/projeto-bd/assets/101959747/8d5d86d5-bf4d-4e3c-8fb6-c2d5c0dac915)
 ![8](https://github.com/LuizEstrelaIII/projeto-bd/assets/101959747/276cd24f-bfdf-4223-aa09-661edc77f8d5)
 
+# Descrição do que foi feito
+
+No pitch, apresentamos a ideia do banco de dados da EducaLivros Online como uma solução inovadora para o setor educacional. Explicamos como esse banco de dados pode armazenar uma ampla variedade de recursos educacionais, como livros digitais, artigos acadêmicos, e outros materiais relevantes.
+
+Destacamos os principais benefícios desse banco de dados, incluindo o fácil acesso a recursos educacionais de alta qualidade, a capacidade de personalizar o aprendizado com base nas necessidades individuais dos alunos e a colaboração entre educadores para compartilhar melhores práticas.
+
+Além disso, abordamos a escalabilidade da plataforma, sua capacidade de crescer e se adaptar às demandas do mercado educacional, e como isso pode impactar positivamente o acesso à educação em diversos contextos, desde escolas até instituições de ensino superior e educação continuada.
+
 
 
