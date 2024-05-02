@@ -3,9 +3,25 @@ Trabalho da disciplina de Banco de Dados I
 
 Professor: Lucas Rodolfo Celestino De Farias  
 
-Grupo: Luiz Estrela, Vinicius Rocha, Nedson Jr e Álvaro Carrazzoni
+Grupo: Luiz Estrela, Vinicius Rocha, Nedson Bomman e Álvaro Carrazzoni
 
-# Slides 
+# Slides e Roteiro do Pitch
+
+1. Introdução : Nosso slogan
+
+2. Perguntas? : Perguntas mais frequentes
+
+3. Objetivos : Nossas pricipais metas
+
+4. Recursos : Recursos que proporcionamos
+
+5. Auxilio : Tudo que proporcionamos para facilitar para o cliente
+
+6. Escalabilidade :
+
+7. Segurança e confiabilidade : Como protegemos os dados do cliente
+
+8. Easter Egg : Uma bonificaçao extra para motivar a usar nosso produto
 
 ## Slides usados durante a apresentação
 
@@ -17,4 +33,6 @@ Grupo: Luiz Estrela, Vinicius Rocha, Nedson Jr e Álvaro Carrazzoni
 ![6](https://github.com/LuizEstrelaIII/projeto-bd/assets/101959747/dafc2565-4948-4efa-bd2f-b3b8f975bc40)
 ![7](https://github.com/LuizEstrelaIII/projeto-bd/assets/101959747/8d5d86d5-bf4d-4e3c-8fb6-c2d5c0dac915)
 ![8](https://github.com/LuizEstrelaIII/projeto-bd/assets/101959747/276cd24f-bfdf-4223-aa09-661edc77f8d5)
+
+
 
