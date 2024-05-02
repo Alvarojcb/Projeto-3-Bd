@@ -13,11 +13,11 @@ Grupo: Luiz Estrela, Vinicius Rocha, Nedson Bomman e Álvaro Carrazzoni
 
 3. Objetivos : Nossas pricipais metas
 
-4. Recursos : Recursos que proporcionamos
+4. Recursos : Recursos que disponibilizamos
 
 5. Auxilio : Tudo que proporcionamos para facilitar para o cliente
 
-6. Escalabilidade :
+6. Escalabilidade : Possibilidade que a empresa tem de crescer
 
 7. Segurança e confiabilidade : Como protegemos os dados do cliente
 
